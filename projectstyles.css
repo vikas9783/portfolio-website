@@ -1,0 +1,87 @@
+body{
+    background-color: bisque;
+}
+.card{
+    background-color: antiquewhite;
+    padding: 10px;
+}
+.jsp{
+    background-color: antiquewhite;
+}
+.card h3{
+    text-align: center;
+}
+.card p{
+    text-align: center;
+    color: gray;
+    font-size: 0.75em;
+}
+.card a{
+    text-align: center;
+    color: black;
+}
+.card a .button{
+    color: white;
+    background-color: blue;
+}
+#name{
+    text-align: center;
+    color: brown;
+    padding-top: 12px;
+    font-size: xx-large;
+}
+#role{
+    text-align: center;
+    color: chocolate;
+    font-size: x-large;
+    padding-top: 10px;
+}
+#about{
+    font-size: large;
+    padding-bottom: 12px;
+}
+#gap{
+    color: black;
+    text-align: center;
+    font-size: xx-large;
+}
+span {
+    margin-left: 3px;
+    display: inline-block;
+  }
+  textarea {
+    width: 500px;
+    height: 300px;
+  }
+  #myDiv {
+    background-color: white;
+    width: 500px;
+    height: 100%;
+  }
+  .row #input{
+    text-align: center;
+  }
+  .row #js{
+    padding: 20px;
+    text-align: center;
+  }
+h2
+{
+    text-align: center;
+}
+#btn{
+    background-color: blanchedalmond;
+    padding: 10px;
+}
+p{
+    text-align: center;
+    text-decoration: dashed;
+}
+#sub-role{
+    text-align: center;
+    font-size: larger;
+}
+#Contact{
+    color: orange;
+    font-size: larger;
+}
